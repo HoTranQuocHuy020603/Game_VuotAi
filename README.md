@@ -17,7 +17,7 @@ This is a game project written in unity. VuotAi is a 2D game that replays from t
 ***Project launch***
 - Step 1: Open the Unity 2022.3.18f1 application.
 - Step 2: Create new project with 2D game.
-- Step 3: Replace all file in 'Assets' folder to the file 'Assets' in new project.
+- Step 3: Replace all file in 'Assets' folder to the folder 'Assets' in new project.
 - Step 4: Refresh project and run it.
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
