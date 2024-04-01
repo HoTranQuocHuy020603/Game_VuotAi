@@ -1,5 +1,6 @@
 # File description: 
 - Project folder data file ( Assets.zip).
+- Project file (VuotAi_Project).
 - Note file ( README.md).
 # SunnyLandGame
 This is a game project written in unity. VuotAi is a 2D game that replays from the beginning when the player dies, earns points and passes the enemy until the end. Only have two mode is easy and hard.
